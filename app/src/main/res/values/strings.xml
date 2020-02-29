@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Taskr</string>
+    <string name="taskr">Taskr</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="Login">login</string>
+    <string name="not_a_user">Not a user?</string>
+    <string name="signup">SignUp</string>
+</resources>
